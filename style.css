@@ -12,11 +12,11 @@
    font-family: Helvetica, Sans-Serif;
    color: #A9A9A9;
    font-size: 11pt;
-   
+
 }
 .nav
 {
-   background-color: #ffffff;  
+   background-color: #ffffff;
 }
 
 
@@ -48,7 +48,7 @@ div{
     width: 70%;
     height: 70%;
     text-align: center;
-    
+
 }
 #alderson{
     background-color: #fffff5;
@@ -56,7 +56,7 @@ div{
     width: 70%;
     height: 70%;
     text-align: center;
-    
+
 }
 p{
   margin-top:0;
@@ -106,7 +106,7 @@ li span{
 }
 
 span{
-  color: #ee2461;
+  color: #ffffff;
   margin-right: 1%;
   margin-left:1%;
   margin-top:1%;
@@ -117,7 +117,7 @@ img{
 }
 
 .title{
-  color: #ee2461;
+  color: #ffffff;
   text-align:center;
 }
 
